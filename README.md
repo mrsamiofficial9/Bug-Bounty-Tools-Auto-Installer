@@ -9,7 +9,7 @@
 
 ###  [√] Description :
 
-***A bash auto tool installer script for Linux Destro"
+*** A bash auto tool installer script for Linux Destro
 ###  [+] Installation
 
 ###### Install primary dependenies (git)
@@ -31,7 +31,7 @@
    - ```chmod +x bug-bounty-tools```
 
 ##### Run the script
- -```sudo ./bug-bounty-tools```
+ - ```sudo ./bug-bounty-tools```
 
  ### Support
 
