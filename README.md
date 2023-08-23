@@ -71,9 +71,9 @@ wpscan       |
 
 
 
+#### <h1>Warning:-</h1> Please Follow The Instruction To Use This Tool
 
 
-
-##### THANK YOU FOR USAGE MY SCRIPT I'M SAMSON TESFAYE or my short name Mr Sami
+##### THANK YOU FOR USAGE MY SCRIPT I'M SAMSON TESFAYE or My Short Name Is Mr Sami
 
 
