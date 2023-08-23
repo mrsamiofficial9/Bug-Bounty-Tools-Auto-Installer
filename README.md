@@ -1,10 +1,10 @@
 <h1 align="center"> Bug-Bounty-Tools</h1>
 
 <p align="center">
-   <img src="image/1.png">
+   <img src="Screenshot from 2023-08-23 13-38-18.png">
    <br>
    <br>
-       <img src="image/2.png">
+       <img src=".png">
 </p>
 
 ###  [√] Description :
